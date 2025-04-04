@@ -1,2 +1,20 @@
-# Pharmaceutical-Inventory-Tracking-
-A web-based application designed to help pharmacies, hospitals, and medical stores manage drug inventory efficiently. This system tracks stock levels, expiration dates, batch numbers, and supplier details while providing alerts for low stock and expired medicines.
+# Pharmacuetical Inventory Tracking System
+
+## Overview
+This system is used for tracking medical and pharmacuetical tools, flaging out stockouts and expiry dates.
+
+## Requirements
+To run this project, you need the following Python packages:
+
+- numpy
+- reportlab
+- flaks
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TChakafa/Pharmaceutical-Inventory-Tracking.git
